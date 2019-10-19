@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #20232A;
+}
+
+.container {
+    margin: 2% auto;
+    width: 60vw;
+    text-align: center;
+}
+
+table {
+    color: #FF0000;
+    width: 100%;
+}
+
+thead {
+    color: #00FF00;
+}
+
+tbody {
+    color: violet;
+}
+
+tr {
+    color: pink; 
+}
